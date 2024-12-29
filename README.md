@@ -1,2 +1,1 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%#000000&lines=Otrab+Tool+by+Gostmi)](https://git.io/typing-svg)
-Best roblox tool/cookie checker/cookie fresher
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=40&pause=1000&color=000000&center=true&random=true&width=500&lines=OtrabTool+by+Gostmi)](https://git.io/typing-svg)
