@@ -82,3 +82,12 @@
 | <img src="https://i.postimg.cc/mkLqjqBf/no-Filter-Photoroom.png" width="80" height="80"> | Будет виден если rap больше 5,000 robux |
 | <img src="https://i.postimg.cc/zvqCgY5W/no-Filter-Photoroom-2.png" width="80" height="80"> | Будет виден если есть korblox или headless |
 | <img src="https://i.postimg.cc/FHFhnWFZ/images-Photoroom-1.png" width="80" height="80"> | Будет виден если на аккаунте есть какой-либо из бэйджей вписанных в настройках |
+
+
+# Кнопка Info
+Данная кнопка находится внутри таба и показывает полную информацию об аккаунте:
+![](https://i.postimg.cc/0NG2NcdM/Screenshot-685.png "Info")
+
+Нету смысла описывать все, опишу только то что может быть не понятно:
+- Количество сессий - количество людей на аккаунте - если их много, то скорее всего аккаунт был продан в много рук и уже отчекан
+- Избранные - список игр который добавлены в избранное на аккаунте(кнопочка favorite), максимум 5 штук.
