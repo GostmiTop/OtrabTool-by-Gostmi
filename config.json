@@ -11,8 +11,8 @@
     },
     "Telegram": {
         "Enabled": "False",
-        "Token": "7481512087:AAHx5_nF2piroo5rYoXxAjEsIYGniR1evSQ",
-        "Chat_ID": "6120299778"
+        "Token": "",
+        "Chat_ID": ""
     },
     "Other": {
         "Multi_Fresher_Method": "Main",
