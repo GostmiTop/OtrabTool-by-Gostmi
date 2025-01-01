@@ -1,0 +1,25 @@
+{
+    "Sorting": {
+        "Balance": "100,1000,10000",
+        "Donate": "1, 1000, 50000",
+        "Rap": "1, 100, 1000, 10000",
+        "Premium": "True"
+    },
+    "Badges | Gamepasses": {
+        "Badges": "196198137",
+        "Gamepasses": "1308795"
+    },
+    "Telegram": {
+        "Enabled": "False",
+        "Token": "7481512087:AAHx5_nF2piroo5rYoXxAjEsIYGniR1evSQ",
+        "Chat_ID": "6120299778"
+    },
+    "Other": {
+        "Multi_Fresher_Method": "Main",
+        "Picture": "True",
+        "Marker": "True",
+        "Proxy": "True",
+        "Link_TP": "",
+        "Auto_Save": "False"
+    }
+}
