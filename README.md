@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=39&pause=1000&color=000000&vCenter=true&random=true&width=1500&lines=OtrabTool+by+Gostmi;%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82+%D0%B4%D0%BB%D1%8F+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B+%D1%81+cookie+roblox!)](https://git.io/typing-svg)
 
-**РЕЗИЛ НА 30-50 ЗВЕЗД ПРОЕКТА!!!**
+**Следующее обновление на 100 звезд!!!
+Все идеи по обновам писать сюда - https://t.me/LuniShopNews
+Делаю 80% ваших идеи из чатика если возможно их сделать**
 
 # Основное меню
 ![](https://i.postimg.cc/3N7RB2L0/Screenshot-677.png "Основное меню")
